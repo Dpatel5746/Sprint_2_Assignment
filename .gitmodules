@@ -1,0 +1,6 @@
+[submodule "braveu"]
+	path = braveu
+	url = https://github.com/Dpatel5746/braveu.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Dpatel5746/server.git
